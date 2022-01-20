@@ -1,1 +1,3 @@
 *.bat text=auto eol=crlf
+*.vim text=auto eol=crlf
+*.py text=auto eol=crlf
